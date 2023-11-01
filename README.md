@@ -16,3 +16,7 @@ redux
 react-redux
 thunk
 millify
+
+`Preview`
+
+![](./public/screen.gif)
